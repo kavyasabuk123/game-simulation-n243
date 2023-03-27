@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 2.0.0.2 - 3/3/2023 12:33:32 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/Desktop/Aristocrat/Math/MSDK/N230 Skeleton Math Model_1.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="COR_3x5" type="string">
+    <weightentry count="100" value="0.5" />
+    <weightentry count="100" value="0.8" />
+    <weightentry count="100" value="1" />
+    <weightentry count="190" value="1.2" />
+    <weightentry count="50" value="1.5" />
+    <weightentry count="150" value="1.8" />
+    <weightentry count="50" value="2" />
+    <weightentry count="151" value="2.2" />
+    <weightentry count="200" value="2.5" />
+    <weightentry count="205" value="3" />
+    <weightentry count="0" value="3.5" />
+    <weightentry count="50" value="4" />
+    <weightentry count="50" value="5" />
+    <weightentry count="30" value="6" />
+    <weightentry count="0" value="7" />
+    <weightentry count="20" value="8" />
+    <weightentry count="0" value="9" />
+    <weightentry count="10" value="10" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="20" />
+    <weightentry count="7" value="Major" />
+    <weightentry count="14" value="Minor" />
+    <weightentry count="20" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_4x5" type="string">
+    <weightentry count="240" value="0.5" />
+    <weightentry count="100" value="0.8" />
+    <weightentry count="100" value="1" />
+    <weightentry count="196" value="1.2" />
+    <weightentry count="50" value="1.5" />
+    <weightentry count="150" value="1.8" />
+    <weightentry count="50" value="2" />
+    <weightentry count="50" value="2.2" />
+    <weightentry count="200" value="2.5" />
+    <weightentry count="70" value="3" />
+    <weightentry count="0" value="3.5" />
+    <weightentry count="45" value="4" />
+    <weightentry count="10" value="5" />
+    <weightentry count="5" value="6" />
+    <weightentry count="0" value="7" />
+    <weightentry count="1" value="8" />
+    <weightentry count="0" value="9" />
+    <weightentry count="2" value="10" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="20" />
+    <weightentry count="7" value="Major" />
+    <weightentry count="14" value="Minor" />
+    <weightentry count="30" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_5x5" type="string">
+    <weightentry count="240" value="0.5" />
+    <weightentry count="150" value="0.8" />
+    <weightentry count="251" value="1" />
+    <weightentry count="250" value="1.2" />
+    <weightentry count="50" value="1.5" />
+    <weightentry count="80" value="1.8" />
+    <weightentry count="50" value="2" />
+    <weightentry count="50" value="2.2" />
+    <weightentry count="50" value="2.5" />
+    <weightentry count="68" value="3" />
+    <weightentry count="0" value="3.5" />
+    <weightentry count="49" value="4" />
+    <weightentry count="10" value="5" />
+    <weightentry count="15" value="6" />
+    <weightentry count="0" value="7" />
+    <weightentry count="1" value="8" />
+    <weightentry count="0" value="9" />
+    <weightentry count="2" value="10" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="20" />
+    <weightentry count="7" value="Major" />
+    <weightentry count="17" value="Minor" />
+    <weightentry count="40" value="Mini" />
+  </weighttable>
+  <weighttable name="COR_6x5" type="string">
+    <weightentry count="240" value="0.5" />
+    <weightentry count="200" value="0.8" />
+    <weightentry count="252" value="1" />
+    <weightentry count="253" value="1.2" />
+    <weightentry count="150" value="1.5" />
+    <weightentry count="100" value="1.8" />
+    <weightentry count="75" value="2" />
+    <weightentry count="50" value="2.2" />
+    <weightentry count="20" value="2.5" />
+    <weightentry count="25" value="3" />
+    <weightentry count="0" value="3.5" />
+    <weightentry count="15" value="4" />
+    <weightentry count="10" value="5" />
+    <weightentry count="5" value="6" />
+    <weightentry count="0" value="7" />
+    <weightentry count="1" value="8" />
+    <weightentry count="0" value="9" />
+    <weightentry count="8" value="10" />
+    <weightentry count="0" value="12" />
+    <weightentry count="0" value="15" />
+    <weightentry count="0" value="20" />
+    <weightentry count="7" value="Major" />
+    <weightentry count="25" value="Minor" />
+    <weightentry count="40" value="Mini" />
+  </weighttable>
+</weighttables>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 2.0.0.2 - 3/3/2023 12:33:32 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/Desktop/Aristocrat/Math/MSDK/N230 Skeleton Math Model_1.xlsx-->
+<scenedefinition version="1.00" name="H&amp;S" reelstripdatafile="h&amp;s_reelstrips.xml">
+  <symboldefs>
+    <symboldef id="1" name="COR" />
+    <symboldef id="2" name="Blank" />
+    <symboldef id="3" name="Grow" />
+  </symboldefs>
+  <reelstrips numrows="1" betindex="0,1" lineindex="0">
+    <reelstrip>HS_Normal_Locked_6 Locked</reelstrip>
+  </reelstrips>
+  <combos>
+    <combogroup type="scatter">
+      <combo id="3 CORs" award="0">
+        <symbol name="COR" repeats="3" />
+      </combo>
+    </combogroup>
+  </combos>
+  <playlines usereelpower="true" />
+</scenedefinition>

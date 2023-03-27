@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 2.0.0.2 - 3/3/2023 12:33:31 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/Desktop/Aristocrat/Math/MSDK/N230 Skeleton Math Model_1.xlsx-->
+<scenedefinition version="1.00" name="3x5" reelstripdatafile="3x5_reelstrips.xml">
+  <symboldefs>
+    <symboldef id="1" name="SCAT" />
+    <symboldef id="2" name="COR" />
+    <symboldef id="3" name="W" />
+    <symboldef id="4" name="W_2" />
+    <symboldef id="5" name="W_3" />
+    <symboldef id="6" name="W_5" />
+    <symboldef id="7" name="W_10" />
+    <symboldef id="8" name="P1" />
+    <symboldef id="9" name="P2" />
+    <symboldef id="10" name="P3" />
+    <symboldef id="11" name="P4" />
+    <symboldef id="12" name="P5" />
+    <symboldef id="13" name="A" />
+    <symboldef id="14" name="K" />
+    <symboldef id="15" name="Q" />
+    <symboldef id="16" name="J" />
+    <symboldef id="17" name="T" />
+    <symboldef id="18" name="GROW" />
+    <symboldef id="19" name="SS1" />
+    <symboldef id="20" name="SS2" />
+  </symboldefs>
+  <symbolsubs>
+    <symbolsub name="W" targetname="P1" />
+    <symbolsub name="W" targetname="P2" />
+    <symbolsub name="W" targetname="P3" />
+    <symbolsub name="W" targetname="P4" />
+    <symbolsub name="W" targetname="P5" />
+    <symbolsub name="W" targetname="A" />
+    <symbolsub name="W" targetname="K" />
+    <symbolsub name="W" targetname="Q" />
+    <symbolsub name="W" targetname="J" />
+    <symbolsub name="W" targetname="T" />
+    <symbolsub name="W" targetname="W_2" />
+    <symbolsub name="W" targetname="W_3" />
+    <symbolsub name="W" targetname="W_5" />
+    <symbolsub name="W" targetname="W_10" />
+    <symbolsub name="W_2" targetname="P1" />
+    <symbolsub name="W_2" targetname="P2" />
+    <symbolsub name="W_2" targetname="P3" />
+    <symbolsub name="W_2" targetname="P4" />
+    <symbolsub name="W_2" targetname="P5" />
+    <symbolsub name="W_2" targetname="A" />
+    <symbolsub name="W_2" targetname="K" />
+    <symbolsub name="W_2" targetname="Q" />
+    <symbolsub name="W_2" targetname="J" />
+    <symbolsub name="W_2" targetname="T" />
+    <symbolsub name="W_2" targetname="W" />
+    <symbolsub name="W_2" targetname="W_3" />
+    <symbolsub name="W_2" targetname="W_5" />
+    <symbolsub name="W_2" targetname="W_10" />
+    <symbolsub name="W_3" targetname="P1" />
+    <symbolsub name="W_3" targetname="P2" />
+    <symbolsub name="W_3" targetname="P3" />
+    <symbolsub name="W_3" targetname="P4" />
+    <symbolsub name="W_3" targetname="P5" />
+    <symbolsub name="W_3" targetname="A" />
+    <symbolsub name="W_3" targetname="K" />
+    <symbolsub name="W_3" targetname="Q" />
+    <symbolsub name="W_3" targetname="J" />
+    <symbolsub name="W_3" targetname="T" />
+    <symbolsub name="W_3" targetname="W" />
+    <symbolsub name="W_3" targetname="W_2" />
+    <symbolsub name="W_3" targetname="W_5" />
+    <symbolsub name="W_3" targetname="W_10" />
+    <symbolsub name="W_5" targetname="P1" />
+    <symbolsub name="W_5" targetname="P2" />
+    <symbolsub name="W_5" targetname="P3" />
+    <symbolsub name="W_5" targetname="P4" />
+    <symbolsub name="W_5" targetname="P5" />
+    <symbolsub name="W_5" targetname="A" />
+    <symbolsub name="W_5" targetname="K" />
+    <symbolsub name="W_5" targetname="Q" />
+    <symbolsub name="W_5" targetname="J" />
+    <symbolsub name="W_5" targetname="T" />
+    <symbolsub name="W_5" targetname="W" />
+    <symbolsub name="W_5" targetname="W_2" />
+    <symbolsub name="W_5" targetname="W_3" />
+    <symbolsub name="W_5" targetname="W_10" />
+    <symbolsub name="W_10" targetname="P1" />
+    <symbolsub name="W_10" targetname="P2" />
+    <symbolsub name="W_10" targetname="P3" />
+    <symbolsub name="W_10" targetname="P4" />
+    <symbolsub name="W_10" targetname="P5" />
+    <symbolsub name="W_10" targetname="A" />
+    <symbolsub name="W_10" targetname="K" />
+    <symbolsub name="W_10" targetname="Q" />
+    <symbolsub name="W_10" targetname="J" />
+    <symbolsub name="W_10" targetname="T" />
+    <symbolsub name="W_10" targetname="W" />
+    <symbolsub name="W_10" targetname="W_2" />
+    <symbolsub name="W_10" targetname="W_3" />
+    <symbolsub name="W_10" targetname="W_5" />
+  </symbolsubs>
+  <reelstrips numrows="3" betindex="0,1" lineindex="0">
+    <reelstrip>3x5_BaseReels_Set1_Reel 1</reelstrip>
+    <reelstrip>3x5_BaseReels_Set1_Reel 2</reelstrip>
+    <reelstrip>3x5_BaseReels_Set1_Reel 3</reelstrip>
+    <reelstrip>3x5_BaseReels_Set1_Reel 4</reelstrip>
+    <reelstrip>3x5_BaseReels_Set1_Reel 5</reelstrip>
+  </reelstrips>
+  <combos>
+    <combogroup type="line">
+      <combo id="5 P1s" award="35">
+        <symbol name="P1" repeats="5" />
+      </combo>
+      <combo id="4 P1s" award="30">
+        <symbol name="P1" repeats="4" />
+      </combo>
+      <combo id="3 P1s" award="15">
+        <symbol name="P1" repeats="3" />
+      </combo>
+      <combo id="5 P2s" award="30">
+        <symbol name="P2" repeats="5" />
+      </combo>
+      <combo id="4 P2s" award="25">
+        <symbol name="P2" repeats="4" />
+      </combo>
+      <combo id="3 P2s" award="10">
+        <symbol name="P2" repeats="3" />
+      </combo>
+      <combo id="5 P3s" award="30">
+        <symbol name="P3" repeats="5" />
+      </combo>
+      <combo id="4 P3s" award="25">
+        <symbol name="P3" repeats="4" />
+      </combo>
+      <combo id="3 P3s" award="10">
+        <symbol name="P3" repeats="3" />
+      </combo>
+      <combo id="5 P4s" award="25">
+        <symbol name="P4" repeats="5" />
+      </combo>
+      <combo id="4 P4s" award="20">
+        <symbol name="P4" repeats="4" />
+      </combo>
+      <combo id="3 P4s" award="8">
+        <symbol name="P4" repeats="3" />
+      </combo>
+      <combo id="5 P5s" award="25">
+        <symbol name="P5" repeats="5" />
+      </combo>
+      <combo id="4 P5s" award="20">
+        <symbol name="P5" repeats="4" />
+      </combo>
+      <combo id="3 P5s" award="8">
+        <symbol name="P5" repeats="3" />
+      </combo>
+      <combo id="5 As" award="10">
+        <symbol name="A" repeats="5" />
+      </combo>
+      <combo id="4 As" award="8">
+        <symbol name="A" repeats="4" />
+      </combo>
+      <combo id="3 As" award="5">
+        <symbol name="A" repeats="3" />
+      </combo>
+      <combo id="5 Ks" award="10">
+        <symbol name="K" repeats="5" />
+      </combo>
+      <combo id="4 Ks" award="8">
+        <symbol name="K" repeats="4" />
+      </combo>
+      <combo id="3 Ks" award="5">
+        <symbol name="K" repeats="3" />
+      </combo>
+      <combo id="5 Qs" award="10">
+        <symbol name="Q" repeats="5" />
+      </combo>
+      <combo id="4 Qs" award="8">
+        <symbol name="Q" repeats="4" />
+      </combo>
+      <combo id="3 Qs" award="5">
+        <symbol name="Q" repeats="3" />
+      </combo>
+      <combo id="5 Js" award="10">
+        <symbol name="J" repeats="5" />
+      </combo>
+      <combo id="4 Js" award="8">
+        <symbol name="J" repeats="4" />
+      </combo>
+      <combo id="3 Js" award="5">
+        <symbol name="J" repeats="3" />
+      </combo>
+      <combo id="5 Ts" award="10">
+        <symbol name="T" repeats="5" />
+      </combo>
+      <combo id="4 Ts" award="8">
+        <symbol name="T" repeats="4" />
+      </combo>
+      <combo id="3 Ts" award="5">
+        <symbol name="T" repeats="3" />
+      </combo>
+    </combogroup>
+    <combogroup type="scatter" subtype="any">
+      <combo id="5 SCATs" award="250" feature="freegames=20">
+        <symbol name="SCAT" repeats="5" />
+      </combo>
+      <combo id="4 SCATs" award="150" feature="freegames=12">
+        <symbol name="SCAT" repeats="4" />
+      </combo>
+      <combo id="3 SCATs" award="100" feature="freegames=8">
+        <symbol name="SCAT" repeats="3" />
+      </combo>
+    </combogroup>
+  </combos>
+  <playlines usereelpower="false">
+    <playline>0, 0, 0, 0, 0</playline>
+  </playlines>
+</scenedefinition>
