@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--version 2.0.0.2 - 3/3/2023 12:33:31 PM - https://aristocratgamingind-my.sharepoint.com/personal/kavya_sabu_aristocrat_com/Documents/Desktop/Aristocrat/Math/MSDK/N230 Skeleton Math Model_1.xlsx-->
+<weighttables version="1.00" xmlns="http://aristocrat-inc.com/WeightTable.xsd">
+  <weighttable name="3x5_SS1_Base_Set1_Replacement" type="string">
+    <weightentry count="20" value="P1" />
+    <weightentry count="5" value="P2" />
+    <weightentry count="25" value="P3" />
+    <weightentry count="8" value="P4" />
+    <weightentry count="10" value="P5" />
+    <weightentry count="5" value="A" />
+    <weightentry count="2" value="K" />
+    <weightentry count="8" value="Q" />
+    <weightentry count="5" value="J" />
+    <weightentry count="12" value="T" />
+  </weighttable>
+  <weighttable name="3x5_SS1_Base_Set2_Replacement" type="string">
+    <weightentry count="30" value="P1" />
+    <weightentry count="5" value="P2" />
+    <weightentry count="20" value="P3" />
+    <weightentry count="20" value="P4" />
+    <weightentry count="5" value="P5" />
+    <weightentry count="5" value="A" />
+    <weightentry count="5" value="K" />
+    <weightentry count="4" value="Q" />
+    <weightentry count="3" value="J" />
+    <weightentry count="3" value="T" />
+  </weighttable>
+  <weighttable name="3x5_SS1_Base_Set3_Replacement" type="string">
+    <weightentry count="8" value="P1" />
+    <weightentry count="5" value="P2" />
+    <weightentry count="9" value="P3" />
+    <weightentry count="10" value="P4" />
+    <weightentry count="11" value="P5" />
+    <weightentry count="10" value="A" />
+    <weightentry count="10" value="K" />
+    <weightentry count="10" value="Q" />
+    <weightentry count="5" value="J" />
+    <weightentry count="22" value="T" />
+  </weighttable>
+  <weighttable name="3x5_ReelSet" type="string">
+    <weightentry count="1" value="Set1" />
+    <weightentry count="2" value="Set2" />
+    <weightentry count="2" value="Set3" />
+  </weighttable>
+  <weighttable name="3x5_H&amp;STransitionFeature" type="string">
+    <weightentry count="10" value="3x5" />
+    <weightentry count="0" value="4x5" />
+    <weightentry count="0" value="5x5" />
+    <weightentry count="3" value="6x5" />
+  </weighttable>
+  <weighttable name="3x5_SS2_Base_Set1_Replacement" type="string">
+    <weightentry count="0" value="SCAT" />
+    <weightentry count="30" value="COR" />
+    <weightentry count="10" value="W" />
+  </weighttable>
+  <weighttable name="3x5_SS2_Base_Set2_Replacement" type="string">
+    <weightentry count="80" value="SCAT" />
+    <weightentry count="0" value="COR" />
+    <weightentry count="54" value="W" />
+  </weighttable>
+  <weighttable name="3x5_SS2_Base_Set3_Replacement" type="string">
+    <weightentry count="80" value="SCAT" />
+    <weightentry count="0" value="COR" />
+    <weightentry count="54" value="W" />
+  </weighttable>
+  <weighttable name="3x5_SS1_FG_Replacement" type="string">
+    <weightentry count="5" value="P1" />
+    <weightentry count="10" value="P2" />
+    <weightentry count="4" value="P3" />
+    <weightentry count="4" value="P4" />
+    <weightentry count="15" value="P5" />
+    <weightentry count="0" value="A" />
+    <weightentry count="0" value="K" />
+    <weightentry count="0" value="Q" />
+    <weightentry count="0" value="J" />
+    <weightentry count="0" value="T" />
+  </weighttable>
+</weighttables>
